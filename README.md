@@ -10,6 +10,8 @@
 
 <!-- tocstop -->
 
+foo
+
 Ruby Sample App on OpenShift
 ============================
 
